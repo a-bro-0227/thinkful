@@ -1,0 +1,6 @@
+uuid: 12de78ca-dc70-46ba-b5ba-66a64693ca2f
+name: Reorientation
+code: DSBC-REORIENTATION
+checkpoints:
+  - reorientation_welcome_immersive
+  - intro_to_career_services_v2

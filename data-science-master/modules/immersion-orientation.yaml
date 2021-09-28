@@ -1,0 +1,12 @@
+name: Immersion Orientation
+code: DSBC-IMM-ORNT
+checkpoints:
+  - imm-ornt-getting-started
+  - imm-ornt-program-overview
+  - imm-ornt-your-support-team
+  - imm-ornt-student-expectations
+  - imm-ornt-slack
+  - imm-ornt-careers-course-overview
+  - imm-ornt-path-to-success
+  - imm-ornt-learning-strategies
+uuid: e1336716-bd99-48f9-9801-64de2fc71c5b

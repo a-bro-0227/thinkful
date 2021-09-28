@@ -1,0 +1,15 @@
+name: Data Science Flex orientation
+code: DSF-ORIENTATION
+version: 2
+uuid: c549578d-6651-45f7-b7f3-d481ac0e4ff5
+checkpoints:
+  - orientation_v2_get_started
+  - orientation_v2_set_up_slack
+  - orientation_v2_support
+  - orientation_v2_program
+  - orientation_v2_succeed
+  - orientation_v2_learning_strategies
+  - orientation_v2_slack
+  - orientation_v2_technical_coaching
+  - orientation_v2_careers
+  - orientation_v2_code_of_conduct

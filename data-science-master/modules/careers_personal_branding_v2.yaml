@@ -1,0 +1,9 @@
+name: 'Careers: Personal Branding'
+code: ds-careers-personal-branding
+version: 2
+checkpoints:
+  - careers_personal_branding_v2_intro_to_personal_branding
+  - careers_personal_branding_v2_resume
+  - careers_personal_branding_v2_linkedin
+  - careers_personal_branding_v2_github
+uuid: c42238a5-365f-4742-a610-e98d6f58eb3b

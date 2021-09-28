@@ -1,0 +1,11 @@
+uuid: b617e93b-af63-41a0-9c14-e7f7f9cca1e6
+name: Phone Screens
+code: DS-PHONE-SCREEN
+version: 1
+checkpoints:
+  - phone_screen_what_is
+  - phone_screen_acing
+  - phone_screen_preparing
+  - phone_screen_jd_tech_1
+  - phone_screen_jd_manufacture_2
+  - phone_screen_jd_nonprofit_3

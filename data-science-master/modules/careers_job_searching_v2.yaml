@@ -1,0 +1,8 @@
+name: 'Careers: Job searching'
+code: ds-careers-job-searching
+version: 2
+checkpoints:
+  - careers_job_searching_v2_intro_to_job_searching
+  - careers_job_searching_v2_applying
+  - careers_job_searching_v2_cover_letters
+uuid: df1c3721-0327-4395-9f1b-32da73a4d8bc

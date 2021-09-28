@@ -1,0 +1,6 @@
+uuid: 98b8d519-c82e-4724-bbe3-aee0dad6ac69
+name: Development Environment
+code: DSBC-DEV-ENV
+version: 1
+checkpoints:
+  - dev_env

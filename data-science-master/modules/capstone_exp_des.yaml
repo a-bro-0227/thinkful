@@ -1,0 +1,10 @@
+uuid: d8a1b0f5-139b-417b-bb80-86e885af4b33
+name: 'Capstone 1: Experimental design'
+code: DSBC-1-CAPSTONE-EXP-DES
+version: 1
+checkpoints:
+  - capstone_exp_des_write_proposal
+  - capstone_exp_des_run_analyze
+  - capstone_exp_des_prepare_present
+  - capstone_exp_des_present_capstone
+  - capstone_dashboards

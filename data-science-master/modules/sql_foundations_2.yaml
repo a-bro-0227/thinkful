@@ -1,0 +1,9 @@
+uuid: 2e65aaa9-2432-4195-88f0-c0b290600e43
+name: 'SQL foundations II: Aggregating and grouping data'
+code: DSBC-SQL-FOUNDATIONS-2
+version: 1
+checkpoints:
+  - sql_foundations_2_aggregate_1
+  - sql_foundations_2_aggregate_2
+  - sql_foundations_2_aggregate_3
+  - sql_foundations_2_challenge

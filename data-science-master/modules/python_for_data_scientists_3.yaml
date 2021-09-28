@@ -1,0 +1,10 @@
+uuid: 79ef9a0c-d984-4172-b0a8-0ee89eb295da
+name: 'Python for data scientists III: pandas'
+code: DSBC-PYTHON-3
+checkpoints:
+  - python_for_data_scientists_3_intro
+  - python_pandas_intro
+  - python_data_frames
+  - python_descriptive_stats
+  - python_visualizations
+  - python_dev_env

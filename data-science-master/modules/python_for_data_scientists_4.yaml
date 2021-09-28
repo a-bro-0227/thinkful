@@ -1,0 +1,7 @@
+uuid: abd73d70-661b-4b4b-b9c1-dac67563dc57
+name: 'Python for data scientists IV: intermediate statistics in Python'
+code: DSBC-PYTHON-4
+checkpoints:
+  - python_4_basics_probability
+  - python_4_data_distributions
+  - python_4_central_limit_theorem

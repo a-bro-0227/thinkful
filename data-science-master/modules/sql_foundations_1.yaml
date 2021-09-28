@@ -1,0 +1,10 @@
+uuid: 119aa71b-50bc-46f6-ad2b-8dec60797fcd
+name: 'SQL foundations I: Relational databases and basic querying'
+code: DSBC-SQL-FOUNDATIONS-1
+version: 1
+checkpoints:
+  - sql_foundations_1_intro
+  - sql_field_exploration
+  - sql_record_exploration_1
+  - sql_record_exploration_2
+  - sql_foundations_1_drills

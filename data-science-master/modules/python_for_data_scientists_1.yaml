@@ -1,0 +1,15 @@
+uuid: 5f07f3fd-7b17-4df9-8f9f-0cffe7cc4993
+name: 'Python for data scientists I: programming fundamentals'
+code: DSBC-PYTHON-1
+checkpoints:
+  - python_for_data_scientists_1_intro
+  - python_colaboratory_setup
+  - python_variables
+  - python_collections
+  - python_functions
+  - python_strings
+  - python_numbers
+  - python_conditional_logic
+  - python_lists
+  - python_dictionaries
+  - python_objects_and_modules

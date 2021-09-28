@@ -1,0 +1,10 @@
+uuid: 63906d06-6e70-4365-a5b3-90987aa73030
+name: 'Supervised learning: solving classification problems'
+code: DSBC-CLASSIFICATIONS
+version: 1
+checkpoints:
+  - classifications_machine_learning
+  - classifications_task
+  - classifications_linear_classifiers
+  - classifications_model_performance
+  - classifications_multi_class

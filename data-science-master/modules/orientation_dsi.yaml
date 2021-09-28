@@ -1,0 +1,9 @@
+uuid: 836e8b4d-b384-4165-b8a5-58a3519d2ac8
+name: Orientation
+code: DSBC-ORIENTATION-DSI
+checkpoints:
+  - orientation_dsi_welcome
+  - orientation_dsi_platform
+  - orientation_dsi_slack
+  - orientation_dsi_co_learning
+  - orientation_dsi_code_conduct

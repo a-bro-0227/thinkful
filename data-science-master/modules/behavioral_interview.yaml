@@ -1,0 +1,8 @@
+uuid: af57c368-2312-4582-b8c5-51152186d99e
+name: Acing the behavioral interview
+code: DSBC-BEHAVIORAL
+version: 1
+checkpoints:
+  - behavioral_interview_what_is
+  - behavioral_interview_preparing_for
+  - behavioral_interview_job_descriptions

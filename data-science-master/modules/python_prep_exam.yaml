@@ -1,0 +1,5 @@
+uuid: 31aa026d-7245-4d89-85c1-8c98c05ef6f5
+name: Python fundamentals exam
+code: DSBC-PREP-EXAM
+checkpoints:
+  - python_prep_exam

@@ -1,0 +1,6 @@
+uuid: a6573eda-7ae2-4528-b2f8-ca2b52f86ef8
+name: First steps into data science
+code: DSBC-FIRST-STEPS
+version: 1
+checkpoints:
+  - first_steps_into_ds

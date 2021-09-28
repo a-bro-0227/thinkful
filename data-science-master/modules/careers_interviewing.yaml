@@ -1,0 +1,9 @@
+name: 'Careers: Interviewing'
+code: ds-careers-interviewing
+version: 1
+checkpoints:
+  - careers_interviewing_intro_to_interviewing
+  - careers_interviewing_behavioral_interview
+  - careers_interviewing_ds
+  - careers_interviewing_salary_negotiation
+uuid: d0bdf7e3-4e03-488e-b223-634e4600a245

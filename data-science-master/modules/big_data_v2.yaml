@@ -1,0 +1,11 @@
+uuid: d074b1a7-0846-4f0c-8fc3-bf1ba6d583a2
+name: Big Data
+code: DSBC-BIG-DATA-V2
+version: 2
+checkpoints:
+  - big_data_v2_intro
+  - big_data_v2_dask
+  - big_data_v2_dask_dataframe
+  - big_data_v2_dask_array
+  - big_data_v2_dask_machine_learning
+  - big_data_v2_challenge

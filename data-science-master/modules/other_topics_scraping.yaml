@@ -1,0 +1,9 @@
+name: 'Other topics: Web scraping'
+code: DSBC-WEB-SCRAPING
+version: 1
+checkpoints:
+  - other_topics_scraping_intro
+  - other_topics_scrapy
+  - other_topics_scraping_dont_break_it
+  - other_topics_apis
+uuid: c576e610-9646-4504-9371-08cde903a746

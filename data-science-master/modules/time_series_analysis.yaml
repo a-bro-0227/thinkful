@@ -1,0 +1,6 @@
+uuid: e431925f-812c-4342-a5b1-3743bcb1fd49
+name: Time Series Analysis
+code: DSBC-TIME-SERIES-ANALYSIS
+version: 1
+checkpoints:
+  - time_series_analysis

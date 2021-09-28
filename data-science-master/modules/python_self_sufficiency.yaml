@@ -1,0 +1,5 @@
+uuid: be955cc2-e404-4a52-b9fb-6441d79bf147
+name: Python self-sufficiency exam
+code: DSBC-PYTHON-SELF-SUFF
+checkpoints:
+  - python_self_suff
