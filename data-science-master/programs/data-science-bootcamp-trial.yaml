@@ -1,8 +1,0 @@
-uuid: 95381580-1927-4b98-81b5-cbfafdd24491
-name: Data Science Trial
-code: TRIAL-DATA-001
-modules:
-  - trial_orientation
-  - careers_job_landscape
-  - programming_fundamentals_in_python
-  - basic_stats_and_probability_with_python

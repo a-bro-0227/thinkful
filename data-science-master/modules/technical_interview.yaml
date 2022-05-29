@@ -1,8 +1,0 @@
-uuid: 7b93cbf2-e7e1-4d0f-9aab-c36b8d2557bf
-name: Acing the technical interview
-code: DSBC-TECHNICAL
-version: 1
-checkpoints:
-  - technical_interview_what_is
-  - technical_interview_acing
-  - technical_interview_preparing

@@ -1,8 +1,0 @@
-uuid: efa386ea-093b-4863-be90-04a91a045ce7
-name: 'Capstone: 1'
-code: DSBC-1-CAPSTONE
-version: 1
-checkpoints:
-  - capstone_1_intro
-  - capstone_1_analytic_report_research_proposal
-  - capstone_1_preparing_for_interview_and_presentation

@@ -1,8 +1,0 @@
-uuid: 7dcc1f73-74b6-4ef3-9bb7-083f72f5289a
-name: 'Python for data scientists II: accessing data'
-code: DSBC-PYTHON-2
-checkpoints:
-  - python_for_data_scientists_2_intro
-  - python_rest_apis
-  - python_api_requests_in_python
-  - python_scraping

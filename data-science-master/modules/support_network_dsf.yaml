@@ -1,9 +1,0 @@
-name: Your support network
-code: DSF-SUPPORT
-version: 1
-uuid: 3ec6bac5-2728-44d5-8994-6f08e5cb2c41
-checkpoints:
-  - intro_to_career_services_v2
-  - get_to_know_your_industry_online
-  - orientation_v2_program_manager
-  - orientation_v2_mentor

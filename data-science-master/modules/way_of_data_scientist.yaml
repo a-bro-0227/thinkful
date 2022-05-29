@@ -1,9 +1,0 @@
-uuid: 0bd5b76f-60de-48e8-852f-c5fd9a04187b
-name: The Way of the Data Scientist
-code: DSBC-WAY-OF-DATA-SCIENTIST
-version: 1
-checkpoints:
-  - way_of_data_scientist_ds_as_profession
-  - way_of_data_scientist_field_knowledge
-  - way_of_data_scientist_getting_up_to_speed
-  - way_of_data_scientist_interviewing

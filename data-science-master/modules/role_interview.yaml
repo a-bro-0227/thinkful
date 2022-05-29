@@ -1,8 +1,0 @@
-uuid: 2c8461b6-99f9-4ca5-b5a4-4c79d0195742
-name: Acing the role interview
-code: DSBC-ROLE
-version: 1
-checkpoints:
-  - role_interview_what_is
-  - role_interview_preparing
-  - role_interview_job_descriptions

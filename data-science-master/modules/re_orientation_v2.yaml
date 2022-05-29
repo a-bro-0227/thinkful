@@ -1,7 +1,0 @@
-name: Reorientation
-code: DSI-REORIENTATION
-version: 2
-checkpoints:
-  - reorientation_welcome_immersive
-  - careers_intro
-uuid: 85ba4b92-75ba-4443-a81f-1037aa89cf95
